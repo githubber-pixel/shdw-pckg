@@ -8,7 +8,7 @@ setup(
     author = 'ShivC',
     author_email = 'system.io64@gmail.com',
     url = 'https://github.com/githubber-pixel/shdw-pckg/',
-    download_url = 'download link you saved',
+    download_url = 'https://github.com/githubber-pixel/shdw-pckg/archive/v1.0.tar.gz',
     keywords = [],
     classifiers = [],
 )
